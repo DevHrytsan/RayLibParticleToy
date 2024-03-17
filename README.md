@@ -1,5 +1,8 @@
 # Raylib Particle Toy
 Based on [Codemaker4 Raylib Particle Toy](https://github.com/codemaker4/raylib-particle-toy) but with performance improvements.
+
+https://github.com/DevHrytsan/RayLibParticleToy/assets/55915163/ab272b52-fbea-4844-ab9a-641bccd29157
+
 ## Description
 This is a little project playground to mess with particles.
 
